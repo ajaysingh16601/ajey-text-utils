@@ -1,6 +1,6 @@
 {
   "name": "ajeymanize-text-utils",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "files": ["dist"],
@@ -15,5 +15,14 @@
   "devDependencies": {
     "typescript": "^5.8.3",
     "vitest": "^3.1.4"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ajaysingh16601/ajey-text-utils"
+  },
+  "bugs": {
+    "url": "https://github.com/ajaysingh16601/ajey-text-utils/issues"
+  },
+  "homepage": "https://github.com/ajaysingh16601/ajey-text-utils#readme"
+
 }
