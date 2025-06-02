@@ -1,6 +1,6 @@
 {
   "name": "ajeymanize-text-utils",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "files": ["dist"],
@@ -8,7 +8,17 @@
     "build": "tsc",
     "test": "vitest run"
   },
-  "keywords": [],
+  "keywords": [
+  "humanize",
+  "string",
+  "text",
+  "slugify",
+  "title case",
+  "camelCase",
+  "typescript",
+  "utilities",
+  "ajey"
+],
   "author": "",
   "license": "ISC",
   "description": "",

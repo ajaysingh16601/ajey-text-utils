@@ -30,9 +30,9 @@ yarn add ajeymanize-text-utils
 ## 🔧 Usage
 
 ```ts
-import { humanize } from 'ajeymanize-text-utils';
+import { humanizeString } from 'ajeymanize-text-utils';
 
-console.log(humanize('my_awesome-packageName'));
+console.log(humanizeString('my_awesome-packageName'));
 // Output: "My Awesome Package Name"
 ```
 
@@ -40,9 +40,7 @@ console.log(humanize('my_awesome-packageName'));
 
 | Function   | Description                                      |
 |------------|--------------------------------------------------|
-| `humanize(str)` | Converts `snake_case`, `kebab-case`, or `camelCase` to a clean, spaced string with capitalization |
-| `titleCase(str)` | Capitalizes the first letter of each word |
-| `slugify(str)` | Converts text to URL-friendly slugs like `my-awesome-string` |
+| `humanizeString(str)` | Converts `snake_case`, `kebab-case`, or `camelCase` to a clean, spaced string with capitalization |
 
 > More functions coming soon! ✨
 
@@ -51,9 +49,7 @@ console.log(humanize('my_awesome-packageName'));
 ## 🧪 Examples
 
 ```ts
-humanize('helloWorld_example-test'); // "Hello World Example Test"
-titleCase('this is a title');        // "This Is A Title"
-slugify('Clean this text!')          // "clean-this-text"
+humanizeString('helloWorld_example-test'); // "Hello World Example Test"
 ```
 
 ---
@@ -76,8 +72,9 @@ Please write clean, typed, and tested code. 🙏
 
 **Ajey Solanki**  
 👨‍💻 Frontend Developer | Open Source Enthusiast  
-📧 Email: [ajey.dev@pm.me](mailto:ajaysingh16601@gmail.com)  
+📧 Email: [ajaysingh16601@gmail.com](mailto:ajaysingh16601@gmail.com)
 🌐 GitHub: [@ajeysolanki](https://github.com/ajaysingh16601)  
+💼 LinkedIn: [https://www.linkedin.com/in/ajaysinghsolanki/](https://www.linkedin.com/in/ajaysinghsolanki/)
 
 ---
 
